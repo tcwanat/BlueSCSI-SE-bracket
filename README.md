@@ -5,12 +5,6 @@ The bracket SVG file can be used by any laser cutter using any 1/8” (~3mm) mat
 
 The faceplate SVG file can be used by any by use by any laser cutter using any 2/100" (~.5mm) material. I use wood veneer backed with 3M tape, but you could use a different material and affix the faceplate to the bracket with an adhesive.
 
-Other parts needed are:
-• Four (4) screws. I used four #3 woodscrews.
-• BlueSCSI 1.1
+Other parts needed are (a) Four (4) screws. I used four #3 woodscrews. (b) BlueSCSI 1.1
 
-The bracket is sized for use with these computers:
-• Macintosh SE
-• Macintosh SE/30
-• Macintosh SE FDHD
-• Macintosh SE SuperDrive
+The bracket is sized for use with these computers: Macintosh SE, Macintosh SE/30, Macintosh SE FDHD, Macintosh SE SuperDrive
